@@ -1,0 +1,27 @@
+.btn-sm btn-outline-secondary{
+    color: white;
+    border: 15px;
+}
+h1{
+    position:absolute;
+    top: 40%;
+    left: 30%;
+    color:black;
+
+}
+h2{
+    position:absolute;
+    top: 50%;
+    left: 30%;
+    color:black;  
+}
+p{
+    position:absolute;
+    top: 60%;
+    left: 30%;
+    color: black;
+}
+.container-fluid{
+    display: flex;
+    justify-content: left;
+}
